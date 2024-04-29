@@ -1,3 +1,0 @@
-This is repository to learn git
-
-this is git repository 
